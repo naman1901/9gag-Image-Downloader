@@ -107,3 +107,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Work files
+Images/
+9gag/
+test.py
